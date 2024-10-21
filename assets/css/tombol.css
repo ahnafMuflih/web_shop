@@ -1,0 +1,8 @@
+.tombol {
+    background-color: #5a00ff; /* Warna tombol */
+    color: white; /* Warna teks */
+    padding: 10px 20px; /* Jarak dalam tombol */
+    border: none; /* Tanpa border */
+    border-radius: 5px; /* Sudut melingkar */
+    cursor: pointer; /* Tanda kursor saat melayang */
+}
